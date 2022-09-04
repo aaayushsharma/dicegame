@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: rgb(236, 195, 195);
+}
+/* div{
+    width: 30%;
+    margin: auto;
+} */
+h1,p{
+    color:rgb(0, 81, 255);
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+}
+span{
+    font-size: 20px;
+}
+.dice{
+  display: inline-block;
+  margin: 10px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+footer{
+    margin: 30px;
+}
+/* p{
+    float: left;
+} */
